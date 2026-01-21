@@ -6,6 +6,10 @@ This is the source code of the Bad Apple!! MBR. This code allows you to play "Ba
   <img src="https://i.imgur.com/Xglo6AH.jpeg">
 </p>
 
+## WARNING BAD AUDIO
+
+Due to not finding a good MIDI file, the best available one was used. However, it is still not perfect, and therefore the sound quality is bad.
+
 ## Prerequisites
 
 To build and run this project, you will need:
