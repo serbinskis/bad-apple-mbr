@@ -3,7 +3,7 @@
 This is the source code of the Bad Apple!! MBR. This code allows you to play "Bad Apple!!" with synchronized audio in MBR. Except of course there is data beyond MBR sector.
 
 <p align="center">
-  <img src="https://i.imgur.com/Xglo6AH.jpeg">
+  <img src="https://github.com/user-attachments/assets/29760450-2680-4cf5-8bb2-42186d9d12d5">
 </p>
 
 ## WARNING BAD AUDIO
@@ -24,3 +24,4 @@ Just run `compile.bat`
 ## Download
 
 You can download the compiled MBR image file [here](https://github.com/serbinskis/bad-apple-mbr/raw/master/bootloader.img).
+
